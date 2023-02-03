@@ -18,3 +18,4 @@ Future: Green
 
 ![Bottom Page](assets/images/Screenshot%20(114).png)
 
+[Daily Planner Link](https://dksolomon.github.io/Daily-Planner/)
